@@ -19,7 +19,7 @@ Ready to groove to the bee-magic? Here's a taste of what BEE6 brings to the hive
   mini-games.
 - 🎂 **Party Central**: Birthday bashes, on the house! BEE6 delivers joy with automatic birthday wishes.
 - 💬 **Custom Command Playground**: Fancy some bot magic? Cook up your own commands for a personalized server experience.
-[//]: # (- 🚫 **Anti-Troubleforce Shield**: Say goodbye to rule-breakers with BEE6's slick auto-moderation mojo.)
+<!-- - 🚫 **Anti-Troubleforce Shield**: Say goodbye to rule-breakers with BEE6's slick auto-moderation mojo.) -->
 - 📜 **Secret Diary of Logs**: Keep tabs on what's shaking with in-depth server activity logs that never miss a beat.
 - 📣 **Social Media Extravaganza**: Sync your social groove with our bot—it's like a symphony of awesomeness.
 
