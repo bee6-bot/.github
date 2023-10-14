@@ -1,33 +1,26 @@
-# Welcome to BEE6 Organization 🎉
+## About The Project
 
-## 🐝 Unleash the Bee-magic with BEE6!
+Welcome to BEE6, the versatile and feature-packed Discord bot designed to cater to all your server's needs. As a free
+and open-source alternative to MEE6 and other popular bots, BEE6 offers a wide range of functionalities to elevate your
+Discord server to the next level.
 
-🚀 Hold onto your antennae because you've just stepped into the vibrant world of BEE6, the disco-bot with a dash of
-pizzazz! We're not just any bot—we're your server's BFF (Bot Friend Forever) here to make server life sweeter.
+### What does BEE6 have to offer?
 
-## 🌟 What's the Buzz All About?
+⚠️ Coming soon • 🚧 In progress • ✅ Implemented
 
-Ready to groove to the bee-magic? Here's a taste of what BEE6 brings to the hive:
 
-- 🏆 **Level Up Love**: Give your members wings with our leveling system that rewards them for buzzing around!
-- 💰 **Economy Fiesta**: Bee-rich or bee-broke? Dive into our lively economy and watch your virtual pockets grow (or
-  shrink!).
-- 🚓 **Peacekeeper Bee**: Our vigilant bot keeps the peace, zapping out any troublemakers and spreading good vibes.
-- 📊 **Opinion Polls Galore**: Curious bees want to know! Launch polls that create a buzz and bring your community
-  closer.
-- 🎮 **Mini-Game Mania**: It's not just bots and bytes—it's games and giggles! Engage your server with exciting
-  mini-games.
-- 🎂 **Party Central**: Birthday bashes, on the house! BEE6 delivers joy with automatic birthday wishes.
-- 💬 **Custom Command Playground**: Fancy some bot magic? Cook up your own commands for a personalized server experience.
-<!-- - 🚫 **Anti-Troubleforce Shield**: Say goodbye to rule-breakers with BEE6's slick auto-moderation mojo.) -->
-- 📜 **Secret Diary of Logs**: Keep tabs on what's shaking with in-depth server activity logs that never miss a beat.
-- 📣 **Social Media Extravaganza**: Sync your social groove with our bot—it's like a symphony of awesomeness.
+- ✅ **Customizable** • BEE6 is designed to be as customisable as possible, with a wide range of settings and options to
+  suit your needs. [Check some of them out here](https://bee6-bot.github.io/user-docs/bee6/configs).
+- ✅ **Welcome/leave messages** • BEE6 can send welcome and leave messages to your server's channels, with a wide range of
+  customization options.
+- ✅ **Leveling** • BEE6 can track your server's members' activity, **plus** has a feature to easily migrate your
+    leveling data from MEE6.
+- ✅ **Economy** • Members can earn currency by being active and use it to purchase items and play games.
+- ✅ **AI Chatbot** • BEE6 can chat with your server's members using OpenAI's GPT-3.5 Turbo.
+- 🚧 **Reaction Roles** • BEE6 can assign roles to users when they react to a message.
+- 🚧 **Auto-moderation** • BEE6 can automatically moderate your server, with a wide range of options to suit your needs.
+- ⚠️ **Auto-role** • BEE6 can automatically assign roles to new members.
+- ⚠️ **Social Media Alerts** • BEE6 can send alerts to your server when you or someone else posts on social media.
+- ⚠️ **Custom Commands** • BEE6 can create custom commands for your server.
 
-## 🌐 Join the Hive Dance
-
-- [🎉 Visit Our Buzzing Website](https://bee6-bot.github.io/)
-- [👋 Join the Bee-Hive Support](https://bee6-bot.github.io/support)
-- [🐝 Discover GitHub Adventures](https://github.com/bee6-bot)
-- Exciting updates are swarming your way—stay tuned!
-
-🎈 Ready to create some buzz with us? Dive in and let's dance with BEE6 magic! 🕺💃🎶
+**NOTE** This list may be out of date. Please [check the BEE6 repository](https://github.com/bee6-bot/bee6) for more up-to-date information
